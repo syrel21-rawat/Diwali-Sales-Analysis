@@ -28,6 +28,39 @@ Jupyter Notebook for analysis & visualization
 
 Dataset: Diwali Sales Data (CSV)
 
+## 📊 Chart 
+
+Customer Demographics
+
+🟦 Gender Distribution
+
+
+🟧 Spending by Gender
+
+🟩 Age Distribution
+
+🟨 Total Sales by Age Group
+
+Geographical Insights
+
+🗺️ Top 10 States by Orders
+
+💰 Top 10 States by Sales
+
+Customer Segmentation
+
+❤️ Purchasing Power by Marital Status
+
+👩‍💼 Sales by Marital Status & Gender
+
+🏢 Sales by Occupation
+
+Product Insights
+
+📦 Sales by Product Category
+
+🔝 Top 10 Most Sold Products
+
 ## ✅ Conclusion
 The analysis helps businesses target married women aged 26–35 in metro states working in IT/Healthcare/Aviation, and focus marketing strategies on Food, Clothing, and Electronics to maximize sales.
 
