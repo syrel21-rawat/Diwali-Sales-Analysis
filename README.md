@@ -29,5 +29,6 @@ Jupyter Notebook for analysis & visualization
 Dataset: Diwali Sales Data (CSV)
 
 ## ✅ Conclusion
-
 The analysis helps businesses target married women aged 26–35 in metro states working in IT/Healthcare/Aviation, and focus marketing strategies on Food, Clothing, and Electronics to maximize sales.
+
+
